@@ -39,8 +39,6 @@ CSE student at KIIT, Bhubaneswar (CGPA 7.95) — into systems programming, netwo
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/amarpratapsingh/amarpratapsingh/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-<br/><br/>
-<img src="https://github-profile-trophy.vercel.app/?username=amarpratapsingh&theme=algolia&no-frame=true&column=4&margin-w=8&margin-h=8" />
 </div>
 
 ## 📜 Certification
